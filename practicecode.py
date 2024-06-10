@@ -1,10 +1,8 @@
 # check a number if it is even or odd using conditional s
 
 x = 4
-print(x % 2)
-print(x / 2)
 
-'''
+
 
 if x%2=0:
     print("the given number is even")
@@ -18,4 +16,4 @@ if y=="0":
     else
     print("x is odd number")
 
-'''
+
